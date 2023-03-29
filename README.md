@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [@MicahNjeru](https://github.com/MicahNjeru) on github.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I never knew I'd love solving solutions through programming until I knew I could solve problems through programming.
-- `MySqlConnection sqlConn = new MySqlconnection();`
-- *The above creates a new MySqlConnection function*
+- `MySqlConnection sqlConn = new MySqlconnection();` *The above creates a new MySqlConnection function*
+- 
