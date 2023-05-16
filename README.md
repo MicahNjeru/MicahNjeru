@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Swift, seriously, I want to practice my Swift skills. 
 - 📫 How to reach me: [@MicahNjeru](https://github.com/MicahNjeru) on github.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I never knew I'd love solving solutions through programming until I knew I could solve problems through programming.
+- ⚡ Fun fact: I never knew I'd love solving problems/challenges through programming until I knew I could solve problems through programming.
