@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning 100 days of SwiftUI by Paul Hudson. Enjoying every step of the journey! 
-- 📚 Also coding along to tunsdev's free courses on iOS apps.
-- 👯 I’m looking to collaborate on open source projects in Swift or Python written projects.
-- 🤔 I’m looking for help with getting an entry level iOS developer job or internship opportunity would be highly appreciated. 
+- 🌱 On the beginning phases of iOS dev. Made a couple of iOS apps. 
+- 📚 Learning the architectural approach of iOS app building with personal projects.
+- 👯 Open to collaborate on open source projects in Swift or Python written projects.
+- 🤔 An entry level iOS developer job or internship opportunity would be highly appreciated. 
 - 💬 Ask me about Swift, seriously, I want to practice my Swift skills. 
 - 📫 How to reach me: [@MicahNjeru](https://github.com/MicahNjeru) on github.
 - 😄 Pronouns: He/Him.
