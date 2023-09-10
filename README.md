@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 On the beginning phases of iOS dev. Made a couple of iOS apps. 
-- 📚 Learning the architectural approach of iOS app building with personal projects.
+- 🌱 In the early phases of iOS dev. Made a couple of iOS apps. 
+- 📚 Learning the architectural approach of iOS app development and shipping with personal projects.
 - 👯 Open to collaborate on open source projects in Swift or Python written projects.
 - 🤔 An entry level iOS developer job or internship opportunity would be highly appreciated. 
 - 💬 Ask me about Swift, seriously, I want to practice my Swift skills. 
