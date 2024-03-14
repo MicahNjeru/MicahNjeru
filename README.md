@@ -2,11 +2,13 @@
 
 <h2 align="center">A passionate iOS Software Engineer fueled by Kaizen.</h2>
 
-I'm a coder who thrives on continuous improvement, inspired by the concept of Kaizen. My coding style prioritizes simplicity, readability, and clear comments to express my thought process `"The first consumer of your code is you, so write code you or anyone else can read."` - Ringa.
+I'm a coder who thrives on continuous improvement, inspired by the concept of Kaizen. My coding style prioritizes simplicity, readability, and clear comments to express my thought process, `"The first consumer of your code is you, so write code you or anyone else can read."` - Ringa.
 
 My passion lies in bringing ideas to life by manipulating the output device (visual or audio) to perfectly express my vision. It's like creating a portal into my mind!
 
-### <h3 align="center"></h3>
+### <h3 align="center">Skills & Expertise</h3>
+| Programming Languages | Swift, Python|
+| Frameworks & Tools | SwiftUI, Django, Numpy, Pandas, JSON, Bootstrap, Git, GitHub, Xcode, Visual Studio Code, Jupyter Notebook & Notion|
 
 <!--
 **MicahNjeru/MicahNjeru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
