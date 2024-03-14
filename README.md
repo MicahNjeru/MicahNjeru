@@ -6,6 +6,8 @@ I'm a coder who thrives on continuous improvement, inspired by the concept of Ka
 
 My passion lies in bringing ideas to life by manipulating the output device (visual or audio) to perfectly express my vision. It's like creating a portal into my mind!
 
+----------------------------
+
 ### <h3 align="center">Skills & Expertise</h3>
 | Programming Languages | Swift, Python|
 | --------------------- | ------------- |
