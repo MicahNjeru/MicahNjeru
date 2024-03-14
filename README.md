@@ -11,7 +11,7 @@ My passion lies in bringing ideas to life by manipulating the output device (vis
 ----------------------------
 
 ### <h3 align="center">Skills & Expertise</h3>
-In order of Most proficient to least proficient. 
+In descending order of proficiency. 
 
 | Programming Languages | Frameworks | Tools |
 | --------------------- | ------------- | ------------- |
@@ -21,6 +21,27 @@ In order of Most proficient to least proficient.
 | C# | Bootstrap | GitHub |
 | PHP | Numpy | Jupyter Notebook | 
 | Java | Pandas | Notion |
+
+-----------------------------
+
+### <h3 align="center">Projects & Accomplishments</h3>
+| Project | Input |
+| -------- | --------- |
+| [Rustiko iOS App](https://github.com/michbalkany/Rustiko) | Co-developer with [Michael](https://github.com/michbalkany): This restaurant app showcases the menu, location, and operating hours. It aims to boost awareness and sales through online orders and deliveries.|
+| Fish and More iOS App | This app for a fish food joint highlights the menu, featured items, and contact information. Users can favorite meals and quickly access them later. |
+
+-----------------------------
+
+### <h3 align="center">Open Source Contributions</h3>
+| Project | Contribution |
+| ----- | ---- |
+| [Rustiko iOS App](https://github.com/michbalkany/Rustiko) | I actively contributed to the development of this open-source project. |
+
+-----------------------------
+
+## <h2 align="center">Let's Connect!</h3>
+![GitHub]()
+![LinkedIn]()
 
 <!--
 **MicahNjeru/MicahNjeru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
