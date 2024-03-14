@@ -8,6 +8,7 @@ My passion lies in bringing ideas to life by manipulating the output device (vis
 
 ### <h3 align="center">Skills & Expertise</h3>
 | Programming Languages | Swift, Python|
+| --------------------- | ------------- |
 | Frameworks & Tools | SwiftUI, Django, Numpy, Pandas, JSON, Bootstrap, Git, GitHub, Xcode, Visual Studio Code, Jupyter Notebook & Notion|
 
 <!--
