@@ -40,8 +40,8 @@ In descending order of proficiency.
 -----------------------------
 
 ## <h2 align="center">Let's Connect!</h3>
-![GitHub](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/GitHub.png)
-![LinkedIn](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/LinkedIn.png)
+![GitHub](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/GitHub.png)
+![LinkedIn](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/LinkedIn.png)
 
 <!--
 **MicahNjeru/MicahNjeru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
