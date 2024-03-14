@@ -27,7 +27,7 @@ In descending order of proficiency.
 ### <h3 align="center">Projects & Accomplishments</h3>
 | Project | Input |
 | -------- | --------- |
-| [Rustiko iOS App](https://github.com/michbalkany/Rustiko) | Co-developer with [Michael](https://github.com/michbalkany): This restaurant app showcases the menu, location, and operating hours. It aims to boost awareness and sales through online orders and deliveries.|
+| [Rustiko iOS App](https://github.com/michbalkany/Rustiko) | Co-developer with [Michael Balkany](https://github.com/michbalkany): This restaurant app showcases the menu, location, and operating hours. It aims to boost awareness and sales through online orders and deliveries.|
 | Fish and More iOS App | This app for a fish food joint highlights the menu, featured items, and contact information. Users can favorite meals and quickly access them later. |
 
 -----------------------------
