@@ -1,4 +1,12 @@
-# <h1 align="center"> Hi there 👋🏾</h1>
+# <h1 align="center"> Hi there 👋🏾, I'm Micah Njeru! </h1>
+
+## <h2 align="center">A passionate iOS Software Engineer fueled with Kaizen</h2>
+
+I'm a coder who thrives on continuous improvement, inspired by the concept of Kaizen. My coding style prioritizes simplicity, readability, and clear comments to express my thought process – "The first consumer of your code is you, so write code you or anyone else can read." - Ringa.
+
+My passion lies in bringing ideas to life by manipulating the output device (visual or audio) to perfectly express my vision. It's like creating a portal into my mind!
+
+### <h3 align="center"></h3>
 
 <!--
 **MicahNjeru/MicahNjeru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
