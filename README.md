@@ -11,10 +11,15 @@ My passion lies in bringing ideas to life by manipulating the output device (vis
 ----------------------------
 
 ### <h3 align="center">Skills & Expertise</h3>
-| Programming Languages | Frameworks & Tools |
-| --------------------- | ------------- |
-| 1. Swift | 1. SwiftUI, Django, Numpy, Pandas, JSON, Bootstrap, Git, GitHub, Xcode, Visual Studio Code, Jupyter Notebook & Notion|
-| 2. Python | Sample|
+| Programming Languages | Frameworks | Tools |
+| --------------------- | ------------- | ------------- |
+| 1. Swift | 1. SwiftUI | 1. Git|
+| 2. Python | 2. Django | 2. GitHub |
+| | 3. Numpy| 3. Xcode |
+| | 4. Pandas | 4. Visual Studio Code |
+| | 5. JSON | 5. Jupyter Notebook | 
+| | 6. Bootstrap | 6. Notion |
+
 
 <!--
 **MicahNjeru/MicahNjeru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
