@@ -14,7 +14,7 @@ My passion lies in bringing ideas to life by manipulating the output device (vis
 | Programming Languages | Frameworks | Tools |
 | --------------------- | ------------- | ------------- |
 | 1. Swift | 1. SwiftUI | 1. Xcode |
-| 2. Python | 2. Django | 2. Visual Studio Code |
+| 2. Python | 2. Django. 3. Numpy. 4. Pandas | 2. Visual Studio Code |
 | 3. C++ | 3. Numpy| 3. Jupyter Notebook |
 | 4. C# | 4. Pandas | 4. Git |
 | 5. PHP | 5. JSON | 5. GitHub | 
