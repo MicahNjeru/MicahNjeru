@@ -17,9 +17,9 @@ In order of Most proficient to least proficient.
 | --------------------- | ------------- | ------------- |
 | Swift | SwiftUI | Xcode |
 | Python | Django | Visual Studio Code |
-| C++ | JSON | Jupyter Notebook |
-| C# | Bootstrap | Git |
-| PHP | Numpy | GitHub | 
+| C++ | JSON | Git |
+| C# | Bootstrap | GitHub |
+| PHP | Numpy | Jupyter Notebook | 
 | Java | Pandas | Notion |
 
 <!--
