@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - 🌱 In the early phases of iOS dev. Made a couple of iOS apps. 
 - 📚 Learning the architectural approach of iOS app development and shipping with personal projects.
 - 👯 Open to collaborate on open source projects in Swift or Python written projects.
-- 🤔 An entry level iOS developer job or internship opportunity would be highly appreciated. 
+- 🤔 An entry level - mid-level iOS developer job, internship or project opportunity would be highly appreciated. 
 - 💬 Ask me about Swift, seriously, I want to practice my Swift skills. 
-- 📫 How to reach me: [@MicahNjeru](https://github.com/MicahNjeru) on github.
+- 📫 How to reach me: [@MicahNjeru](https://github.com/MicahNjeru) on github, [@Micah-Njeru](https://www.linkedin.com/in/micah-njeru/) on LinkedIn.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I never knew I'd love solving problems/challenges through programming until I knew I could solve problems through programming.
