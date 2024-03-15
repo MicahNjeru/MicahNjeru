@@ -4,7 +4,7 @@
 
 I'm a coder guided by the concept of Kaizen. My coding style prioritizes: 
 - Simplicity 💡,
-- Readability 📖, and
+- Readability 📖 and
 - Clarity ☯️ (articulated comments)
   
   to express my thought 💭 process. 
