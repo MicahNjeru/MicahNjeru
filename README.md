@@ -6,6 +6,7 @@ I'm a coder guided by the concept of Kaizen. My coding style prioritizes:
 - Simplicity 💡,
 - Readability 📖, and
 - Clarity ☯️ (articulated comments)
+  
   to express my thought 💭 process. 
 
 `"You are the first consumer of your code, write code you && anyone else can read."` - Ringa.
