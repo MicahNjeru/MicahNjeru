@@ -1,12 +1,16 @@
 <h1 align="center"> Hi there 👋🏾, I'm Micah Njeru!</h1>
 
-<h2 align="center">A passionate iOS Software Engineer fueled by Kaizen.</h2>
+<h2 align="center">A passionate iOS Software Engineer fueled by Kaizen 🚀.</h2>
 
-I'm a coder who thrives on continuous improvement, inspired by the concept of Kaizen. My coding style prioritizes simplicity, readability, and clear comments to express my thought process. 
+I'm a coder guided by the concept of Kaizen. My coding style prioritizes: 
+- Simplicity 💡,
+- Readability 📖, and
+- Clarity ☯️ (articulated comments)
+  to express my thought 💭 process. 
 
-`"The first consumer of your code is you, so write code you or anyone else can read."` - Ringa.
+`"You are the first consumer of your code, write code you && anyone else can read."` - Ringa.
 
-My passion lies in bringing ideas to life by manipulating the output device (visual or audio) to perfectly express my vision. It's like creating a portal into my mind!
+My passion lies in product design and craftsmanship! Giving life to ideas, perfectly expressing my vision!
 
 ----------------------------
 
