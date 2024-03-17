@@ -18,7 +18,7 @@ My passion lies in product design and craftsmanship! Giving life to ideas, perfe
 ### <h3 align="center">Skills & Expertise</h3>
 In descending order of proficiency. 
 
-| Programming Languages | Frameworks | Tools |
+| Languages | Frameworks | Tools |
 | --------------------- | ------------- | ------------- |
 | [![Swift](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Swift.png)](https://www.swift.org) | [![SwiftUI](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/SwiftUI.png)](https://developer.apple.com/documentation/swiftui/) | [![Xcode](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Xcode.png)](https://developer.apple.com/xcode/) |
 | [![Python](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Python.png)](https://www.python.org) | [![Django](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Django.png)](https://www.djangoproject.com) | [![Visual Studio Code](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Visual%20Studio%20Code.png)](https://code.visualstudio.com) |
