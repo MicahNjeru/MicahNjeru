@@ -20,9 +20,9 @@ In descending order of proficiency.
 
 | Programming Languages | Frameworks | Tools |
 | --------------------- | ------------- | ------------- |
-| [<h3>Swift</h3> ![Swift](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Swift.png)](https://www.swift.org) | SwiftUI | Xcode |
-| Python | Django | Visual Studio Code |
-| C++ | JSON | Git |
+| [![Swift](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Swift.png)](https://www.swift.org) | [![SwiftUI](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/SwiftUI.png)](https://developer.apple.com/documentation/swiftui/) | [![Xcode](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Xcode.png)](https://developer.apple.com/xcode/) |
+| [![Python](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Python.png)](https://www.python.org) | [![Django](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Django.png)](https://www.djangoproject.com) | [![Visual Studio Code](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Visual%20Studio%20Code.png)](https://code.visualstudio.com) |
+| [![C++](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/C%2B%2B.png)](https://isocpp.org) | [![JSON](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/JSON.png)](https://www.json.org/json-en.html) | [![Git](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Git.png)](https://git-scm.com) |
 | C# | Bootstrap | GitHub |
 | PHP | Numpy | Jupyter Notebook | 
 | Java | Pandas | Notion |
