@@ -20,7 +20,7 @@ In descending order of proficiency.
 
 | Programming Languages | Frameworks | Tools |
 | --------------------- | ------------- | ------------- |
-| <h3>Swift</h3>[![Swift](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Swift.png)](https://www.swift.org) | SwiftUI | Xcode |
+| [<h3>Swift</h3> ![Swift](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Swift.png)](https://www.swift.org) | SwiftUI | Xcode |
 | Python | Django | Visual Studio Code |
 | C++ | JSON | Git |
 | C# | Bootstrap | GitHub |
