@@ -23,11 +23,10 @@ In descending order of proficiency.
 | [![Swift](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Swift.png)](https://www.swift.org) | [![SwiftUI](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/SwiftUI.png)](https://developer.apple.com/documentation/swiftui/) | [![Xcode](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Xcode.png)](https://developer.apple.com/xcode/) |
 | [![Python](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Python.png)](https://www.python.org) | [![Django](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Django.png)](https://www.djangoproject.com) | [![Visual Studio Code](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Visual%20Studio%20Code.png)](https://code.visualstudio.com) |
 | [![C++](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/C%2B%2B.png)](https://isocpp.org) | [![JSON](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/JSON.png)](https://www.json.org/json-en.html) | [![Git](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Git.png)](https://git-scm.com) |
-| C# | Bootstrap | GitHub |
-| PHP | Numpy | Jupyter Notebook | 
-| Java | Pandas | Notion |
+| [![C#](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/C%23.png)](https://dotnet.microsoft.com/en-us/languages/csharp) | [![Bootstrap](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Bootstrap.png)](https://getbootstrap.com) | [![GitHub](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/GitHub.png)](https://github.com) |
+| [![PHP](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/PHP.png)](https://www.php.net) | [![Numpy](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Numpy.png)](https://numpy.org) | [![Jupyter Notebook](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Jupyter%20Notebook.png)](https://jupyter.org) | 
+| [![Java](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Java.png)](https://www.java.com/en/) | [![Pandas](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Pandas.png)](https://pandas.pydata.org) | [![Notion](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Notion.png)](https://notion.so/) |
 
-[![GitHub](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/GitHub.png)](https://github.com/MicahNjeru)
 -----------------------------
 
 ### <h3 align="center">Projects & Accomplishments</h3>
