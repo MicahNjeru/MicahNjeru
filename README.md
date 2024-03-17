@@ -2,7 +2,7 @@
 
 <h2 align="center">A passionate iOS Software Engineer fueled by Kaizen 🚀.</h2>
 
-I'm a coder guided by the concept of Kaizen. My coding style prioritizes: 
+I'm a design coder guided by the concept of Kaizen. My design & coding style prioritizes: 
 - Simplicity 💡,
 - Readability 📖 and
 - Clarity ☯️ (articulated comments)
@@ -20,13 +20,14 @@ In descending order of proficiency.
 
 | Programming Languages | Frameworks | Tools |
 | --------------------- | ------------- | ------------- |
-| Swift | SwiftUI | Xcode |
+| [![Swift](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Swift.png)](https://www.swift.org) | SwiftUI | Xcode |
 | Python | Django | Visual Studio Code |
 | C++ | JSON | Git |
 | C# | Bootstrap | GitHub |
 | PHP | Numpy | Jupyter Notebook | 
 | Java | Pandas | Notion |
 
+[![GitHub](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/GitHub.png)](https://github.com/MicahNjeru)
 -----------------------------
 
 ### <h3 align="center">Projects & Accomplishments</h3>
