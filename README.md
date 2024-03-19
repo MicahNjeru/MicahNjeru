@@ -16,6 +16,7 @@ My passion lies in product design and craftsmanship! Giving life to ideas, perfe
 ----------------------------
 
 ### <h3 align="center">Skills & Expertise</h3>
+| | |
 | --- | --- |
 | **Languages** | [![Swift](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Swift.png)](https://www.swift.org) [![Python](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Python.png)](https://www.python.org) [![C++](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/C%2B%2B.png)](https://isocpp.org) [![C#](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/C%23.png)](https://dotnet.microsoft.com/en-us/languages/csharp) [![PHP](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/PHP.png)](https://www.php.net) [![Java](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Java.png)](https://www.java.com/en/) |
 
