@@ -26,7 +26,7 @@ My passion lies in product design and craftsmanship! Giving life to ideas, perfe
 #### Tools
 [![Xcode](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Xcode.png)](https://developer.apple.com/xcode/) [![Visual Studio Code](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Visual%20Studio%20Code.png)](https://code.visualstudio.com) [![Git](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Git.png)](https://git-scm.com) [![GitHub](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/GitHub.png)](https://github.com) [![Jupyter Notebook](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Jupyter%20Notebook.png)](https://jupyter.org) [![Notion](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Notion.png)](https://notion.so/)
 
-In descending order of proficiency. 
+<!--- In descending order of proficiency. 
 
 | Languages | Frameworks | Tools |
 | --------------------- | ------------- | ------------- |
@@ -36,6 +36,7 @@ In descending order of proficiency.
 | [![C#](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/C%23.png)](https://dotnet.microsoft.com/en-us/languages/csharp) | [![Bootstrap](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Bootstrap.png)](https://getbootstrap.com) | [![GitHub](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/GitHub.png)](https://github.com) |
 | [![PHP](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/PHP.png)](https://www.php.net) | [![Numpy](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Numpy.png)](https://numpy.org) | [![Jupyter Notebook](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Jupyter%20Notebook.png)](https://jupyter.org) | 
 | [![Java](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Java.png)](https://www.java.com/en/) | [![Pandas](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Pandas.png)](https://pandas.pydata.org) | [![Notion](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Notion.png)](https://notion.so/) |
+-->
 
 -----------------------------
 
