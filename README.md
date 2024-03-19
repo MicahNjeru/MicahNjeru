@@ -17,7 +17,7 @@ My passion lies in product design and craftsmanship! Giving life to ideas, perfe
 
 ### <h3 align="center">Skills & Expertise</h3>
 
-<h4>Languages</h4> 
+#### Languages 
 [![Swift](https://github.com/MicahNjeru/Readme-Images/blob/main/pngs/Resized/Swift.png)](https://www.swift.org)
 
 In descending order of proficiency. 
