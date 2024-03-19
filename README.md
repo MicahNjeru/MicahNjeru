@@ -40,7 +40,7 @@ My passion lies in product design and craftsmanship! Giving life to ideas, perfe
 | Project | Input |
 | -------- | --------- |
 | [Rustiko iOS App](https://github.com/michbalkany/Rustiko) | Co-developer with [Michael Balkany](https://github.com/michbalkany): This restaurant app showcases the menu, location, and operating hours. It aims to boost awareness and sales through online orders and deliveries.|
-| Fish and More iOS App | This app for a fish food joint highlights the menu, featured items, and contact information. Users can favorite meals and quickly access them later. |
+| Fish and More iOS App | An app for a fish food joint. Highlights the menu, featured items, and contact information. Users can mark favorite meals and quickly access them later. |
 
 -----------------------------
 
